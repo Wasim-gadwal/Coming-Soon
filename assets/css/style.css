@@ -210,7 +210,7 @@ body{
 }
 
 .modal-effect {
-    /* transition:all .3s; */
+    transition:all .3s;
 }
 
 .page.modal-opened {
