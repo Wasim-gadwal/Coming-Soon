@@ -239,7 +239,7 @@ strong {
 footer {
 	position:absolute;
   z-index:999999;
-	bottom:22px;
+	bottom:2px;
   left:0;
 	width:100%;
 }
