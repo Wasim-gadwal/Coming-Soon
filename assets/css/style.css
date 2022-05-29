@@ -177,7 +177,7 @@ strong {
 /************************
     - 3. Background -
 ************************/
-.bg {
+.bg.image {
 	position:fixed;
   	top:0;
   	left:0;
