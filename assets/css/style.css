@@ -177,10 +177,8 @@ strong {
 /************************
     - 3. Background -
 ************************/
-body{
-	background: url(/images/bg/bg05.jpg) no-repeat center bottom !important;
-}
-.bg.image {
+ 
+#bg{
 	position:fixed;
   	top:0;
   	left:0;
