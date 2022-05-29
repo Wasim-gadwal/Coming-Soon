@@ -178,7 +178,7 @@ strong {
     - 3. Background -
 ************************/
 body{
-	background: url(/images/bg/bg05.jpg) no-repeat center bottom;
+	background: url(/images/bg/bg05.jpg) no-repeat center bottom !important;
 }
 .bg.image {
 	position:fixed;
@@ -187,11 +187,11 @@ body{
   	width:100%;
   	height:100%;
   	overflow:hidden;
-		/* background: url(/images/bg/bg01.jpg) center center;
+		background: url(/images/bg/bg01.jpg) center center;
 		background: url(/images/bg/bg02.jpg) center bottom;
 		background: url(/images/bg/bg03.jpg) no-repeat center center;
 		background: url(/images/bg/bg04.jpg) no-repeat center center;
-		background: url(/images/bg/bg05.jpg) no-repeat center bottom; */
+		background: url(/images/bg/bg05.jpg) no-repeat center bottom;
 }
 
 /* Overlay */
