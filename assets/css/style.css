@@ -56,7 +56,7 @@ body {
 	position:relative;
 	background:#000;
 	width:100%;
-	height:100vh;
+	min-height:100vh;
 	background-color:#000;
 }
 
@@ -313,7 +313,7 @@ footer {
 	font-weight:700;
 	color:#fff;
 	text-transform:uppercase;
-	margin-bottom:15px;
+	margin: 45px 0 15px;
 }
 
 .welcome p {
@@ -1285,6 +1285,10 @@ footer {
 	}
 	.logo img{
 		width: 50%;
+	}
+
+	.welcome h2 { 
+		margin-bottom: 15px;
 	}
 
 }
