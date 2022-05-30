@@ -227,7 +227,7 @@
 		countdown:function() {
 			if ($("#countdown").length>0) {
 				$("#countdown").flipTimer({
-					date:"2023/12/25 20:30:00",
+					date:"2022/6/14 20:30:00",
 					dayTextNumber:"auto",
 					bgColor:"#fff",
 					dividerColor:"#666",
