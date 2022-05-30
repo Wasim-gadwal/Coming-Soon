@@ -202,8 +202,8 @@ strong {
   	z-index:0;
   	width:100%;
   	height:100%;
-  	background:rgba(35, 52, 105, 0.5);
-  	background:rgba(7, 18, 50, 0.5);
+  	background:rgba(2, 11, 40, 0.75);
+  	/* background:rgba(7, 18, 50, 0.5); */
   	/* background:rgba(0, 0, 0, 0.5); */
 }
 
@@ -224,6 +224,7 @@ strong {
 	left:0;
 	width:100%; 
 	background-color: rgba(0, 0, 0, .5);
+	z-index: -1;
 }
 .logo .row{
 	/* height: 8vh; */ 
@@ -739,7 +740,7 @@ footer {
 *************************************/
 .info-nav {
 	position:fixed;
-	top:24px;
+	top:18px;
 	right:30px;
 	width:20px;
 	height:20px;
@@ -1288,7 +1289,7 @@ footer {
 		margin-top: 7px;
 	}
 	.logo img{
-		width: 22%;
+		width: 50%;
 	}
 
 }
